@@ -32,3 +32,5 @@ d3.ru##.b-post-cut:has(a[href*="rain_uk.d3"])
 d3.ru##.b-post-cut:has(a[href*="true_ukraine.d3"])
 d3.ru##.b-post-cut:has(a[href*="econ.d3"])
 d3.ru##.b-post-cut:has(a[href*="revision.d3.ru"])
+d3.ru##.b-post-cut:has(a[href*="serbia.d3.ru"])
+
