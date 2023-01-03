@@ -39,3 +39,5 @@ d3.ru##.b-post-cut:has(a[href*="v_psihushke.d3.ru"])
 d3.ru##.b-post-cut:has(a[href*="baraholka.d3.ru"])
 d3.ru##.b-post-cut:has(a[href*="medvedev.d3.ru"])
 d3.ru##.b-post-cut:has(a[href*="antisanction.d3.ru"])
+d3.ru##.b-post-cut:has(a[href*="mimezis.d3.ru"])
+
