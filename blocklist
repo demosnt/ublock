@@ -63,5 +63,8 @@ d3.ru##.b-post-cut:has(a[href*="trezv.d3.ru"])
 d3.ru##.b-post-cut:has(a[href*="finland.d3.ru"])
 d3.ru##.b-post-cut:has(a[href*="hohol.d3.ru"])
 d3.ru##.b-post-cut:has(a[href*="49andlife.d3.ru"])
+d3.ru##.b-post-cut:has(a[href*="woman.d3.ru"])
+
+
 
 
